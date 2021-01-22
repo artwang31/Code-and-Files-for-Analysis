@@ -21,7 +21,7 @@ library(readxl)
 ```{r - Only needs to be run once- converting files from xlsx to csv}
 
 # Create a vector of Excel files to read
-files.to.read <- list.files(path = "/Users/artemaswang/Desktop/Ampersand Test", pattern="xlsx", full.names = TRUE)
+files.to.read <- list.files(path = "/Users/artemaswang/Desktop/Test", pattern="xlsx", full.names = TRUE)
 
 # First function reads all the xlsx workbooks, second function creates sheets from all workbooks.
 all_files_csv <- lapply(files.to.read, function(x)
