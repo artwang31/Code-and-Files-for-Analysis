@@ -1,5 +1,5 @@
 ---
-title: "Artemas Wang Ampersand"
+title: "Artemas Wang"
 author: "Artemas Wang"
 date: "1/18/2021"
 output: html_document
@@ -36,7 +36,7 @@ all_files_csv <- lapply(files.to.read, function(x)
 })
 
 # Reading in as csv keeps data integrity within the sheets
-files.to.read <- list.files(path = "/Users/artemaswang/Desktop/Ampersand", pattern="csv", full.names = TRUE)
+files.to.read <- list.files(path = "/Users/artemaswang/Desktop/", pattern="csv", full.names = TRUE)
 
 all_files <- list2env(lapply(setNames(files.to.read, make.names(gsub(".csv", "", files.to.read))), read.csv), envir = .GlobalEnv)
 ```
