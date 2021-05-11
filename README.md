@@ -10,3 +10,4 @@ This is repository that I created to showcase my ability to transform, process, 
 Skills showcased:
 - Reading and importing of static data files through Python pandas and R dplyr libraries. 
 - String manipulation and regex wrangling in both languages. 
+- Command line coding
