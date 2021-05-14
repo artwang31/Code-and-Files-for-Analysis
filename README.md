@@ -12,4 +12,4 @@ Skills showcased:
 - String manipulation and regex wrangling in both languages. 
 - Command line coding
 - Use of argparse to locate files and read files in to workspace
-- 
+- clean and aggregate multiple files and output to one file
