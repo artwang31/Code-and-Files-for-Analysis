@@ -11,4 +11,5 @@ Skills showcased:
 - Reading and importing of static data files through Python pandas and R dplyr libraries. 
 - String manipulation and regex wrangling in both languages. 
 - Command line coding
-- Use of argparse to locate files 
+- Use of argparse to locate files and read files in to workspace
+- 
