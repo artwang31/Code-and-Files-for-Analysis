@@ -15,3 +15,4 @@ Skills showcased:
 - clean and aggregate multiple files and output to one file
 - correlation analysis
 - analytics reports
+- visualizations and analysis
