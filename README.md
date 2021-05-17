@@ -14,3 +14,4 @@ Skills showcased:
 - Use of argparse to locate files and read files in to workspace
 - clean and aggregate multiple files and output to one file
 - correlation analysis
+- analytics reports
