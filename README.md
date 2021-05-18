@@ -16,3 +16,4 @@ Skills showcased:
 - correlation analysis
 - analytics reports
 - visualizations and analysis
+- reshaping data
