@@ -17,5 +17,5 @@ Skills showcased:
 - analytics reports
 - visualizations and analysis
 - reshaping data
-- R functions, dplyr
+- R functions, tidyverse
 - pivoting data long and wide for analysis
