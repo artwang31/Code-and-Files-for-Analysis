@@ -17,3 +17,4 @@ Skills showcased:
 - analytics reports
 - visualizations and analysis
 - reshaping data
+- R functions, dplyr
