@@ -18,3 +18,4 @@ Skills showcased:
 - visualizations and analysis
 - reshaping data
 - R functions, dplyr
+- pivoting data long and wide for analysis
