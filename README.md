@@ -16,6 +16,6 @@ Skills showcased:
 - correlation analysis
 - analytics reports
 - visualizations and analysis
-- reshaping data
+- reshaping data for visualization
 - R functions, tidyverse
 - pivoting data long and wide for analysis
