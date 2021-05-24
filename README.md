@@ -10,6 +10,7 @@ This is repository that I created to showcase my ability to transform, process, 
 Skills showcased:
 - Reading and importing of static data files through Python pandas and R dplyr libraries. 
 - jupyter notebook
+- R-markdown
 - matplotlib, pandas, numpy - Python
 - tidyverse, ggplot, dplyr, tidyr - R
 - String manipulation and regex wrangling in both languages. 
