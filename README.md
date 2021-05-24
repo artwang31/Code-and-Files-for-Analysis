@@ -22,3 +22,4 @@ Skills showcased:
 - R functions, tidyverse
 - pivoting data long and wide for analysis
 - Tableau visualizations
+- Data transformation for Tableau
