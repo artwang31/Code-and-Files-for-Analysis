@@ -8,6 +8,7 @@
 This is repository that I created to showcase my ability to transform, process, merge, and tidy data for analysis in Python, R, and SQL. The repository will continue to be updated as my coding skills develop.
 
 Skills showcased:
+- Artemas Resume
 - Reading and importing of static data files through Python pandas and R dplyr libraries. 
 - jupyter notebook
 - R-markdown
