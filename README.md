@@ -26,4 +26,4 @@ Skills showcased:
 - pivoting data long and wide for analysis
 - Tableau visualizations
 - Data transformation for Tableau
-- coding scripts
+- coding scripts and sql scripts
