@@ -27,3 +27,4 @@ Skills showcased:
 - Tableau visualizations
 - Data transformation for Tableau
 - coding scripts and sql scripts
+- code effectiveness
