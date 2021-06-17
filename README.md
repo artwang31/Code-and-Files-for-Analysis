@@ -9,7 +9,7 @@ This is repository that I created to showcase my ability to transform, process, 
 
 Skills showcased:
 - Resume
-- Reading and importing of static data files through Python pandas and R dplyr libraries. 
+- Reading, writing, and importing of static data files through Python pandas and R dplyr libraries. 
 - jupyter notebook and ipynb
 - R-markdown
 - matplotlib, pandas, numpy - Python
